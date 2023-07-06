@@ -7,5 +7,5 @@ Este projeto consiste em recriar o jogo Jokenpô, foi solicitado como laboratori
 Preview:
 
 <p align="center">
-  <img src="./images/preview.png" alt="preview image">
+  <img src="preview.png" alt="preview image">
 </p>
